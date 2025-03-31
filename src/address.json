@@ -1,0 +1,1891 @@
+[
+  {
+    "name": "Улаанбаатар хот",
+    "_id": "60f1b9e1b3e3f3f8b4f1b1b1",
+    "parent": null,
+    "level": 1
+  },
+  {
+    "name": "Архангай аймаг",
+    "_id": "40f1b9e1b3e3f3f8b4f1b1b1",
+    "parent": null,
+    "level": 1
+  },
+  {
+    "name": "Баян-Өлгий аймаг",
+    "_id": "50f1b9e1b3e3f3f8b4f1b1b1",
+    "parent": null,
+    "level": 1
+  },
+  {
+    "name": "Баянхонгор аймаг",
+    "_id": "10f1b9e1b3e3f3f8b4f1b1b1",
+    "parent": null,
+    "level": 1
+  },
+  {
+    "name": "Булган аймаг",
+    "_id": "20f1b9e1b3e3f3f8b4f1b1b1",
+    "parent": null,
+    "level": 1
+  },
+  {
+    "name": "Говь-Алтай",
+    "_id": "11d1b9e1b3e3f3f8b4f1b1b1",
+    "parent": null,
+    "level": 1
+  },
+  {
+    "name": "Говьсүмбэр аймаг",
+    "_id": "12d1b9e1b3e3f3f8b4f1b1b1",
+    "parent": null,
+    "level": 1
+  },
+  {
+    "name": "Дархан-Уул аймаг",
+    "_id": "13d1b9e1b3e3f3f8b4f1b1b1",
+    "parent": null,
+    "level": 1
+  },
+  {
+    "name": "Дорноговь аймаг",
+    "_id": "14d1b9e1b3e3f3f8b4f1b1b1",
+    "parent": null,
+    "level": 1
+  },
+  {
+    "name": "Дорнод аймаг",
+    "_id": "15d1b9e1b3e3f3f8b4f1b1b1",
+    "parent": null,
+    "level": 1
+  },
+  {
+    "name": "Дундговь аймаг",
+    "_id": "16d1b9e1b3e3f3f8b4f1b1b1",
+    "parent": null,
+    "level": 1
+  },
+  {
+    "name": "Завхан аймаг",
+    "_id": "17d1b9e1b3e3f3f8b4f1b1b1",
+    "parent": null,
+    "level": 1
+  },
+  {
+    "name": "Орхон аймаг",
+    "_id": "18d1b9e1b3e3f3f8b4f1b1b1",
+    "parent": null,
+    "level": 1
+  },
+  {
+    "name": "Өвөрхангай аймаг",
+    "_id": "19d1b9e1b3e3f3f8b4f1b1b1",
+    "parent": null,
+    "level": 1
+  },
+  {
+    "name": "Өмнөговь аймаг",
+    "_id": "20d1b9e1b3e3f3f8b4f1b1b1",
+    "parent": null,
+    "level": 1
+  },
+  {
+    "name": "Сүхбаатар аймаг",
+    "_id": "21d1b9e1b3e3f3f8b4f1b1b1",
+    "parent": null,
+    "level": 1
+  },
+  {
+    "name": "Сэлэнгэ аймаг",
+    "_id": "22d1b9e1b3e3f3f8b4f1b1b1",
+    "parent": null,
+    "level": 1
+  },
+  {
+    "name": "Төв аймаг",
+    "_id": "23d1b9e1b3e3f3f8b4f1b1b1",
+    "parent": null,
+    "level": 1
+  },
+  {
+    "name": "Увс аймаг",
+    "_id": "24d1b9e1b3e3f3f8b4f1b1b1",
+    "parent": null,
+    "level": 1
+  },
+  {
+    "name": "Ховд аймаг",
+    "_id": "25d1b9e1b3e3f3f8b4f1b1b1",
+    "parent": null,
+    "level": 1
+  },
+  {
+    "name": "Хөвсгөл аймаг",
+    "_id": "26d1b9e1b3e3f3f8b4f1b1b1",
+    "parent": null,
+    "level": 1
+  },
+  {
+    "name": "Хэнтий аймаг",
+    "_id": "27d1b9e1b3e3f3f8b4f1b1b1",
+    "parent": null,
+    "level": 1
+  },
+  {
+    "name": "Багануур",
+    "parent": "60f1b9e1b3e3f3f8b4f1b1b1",
+    "level": 2
+  },
+  {
+    "name": "Багахангай",
+    "parent": "60f1b9e1b3e3f3f8b4f1b1b1",
+    "level": 2
+  },
+  {
+    "name": "Баянгол",
+    "parent": "60f1b9e1b3e3f3f8b4f1b1b1",
+    "level": 2
+  },
+  {
+    "name": "Баянзүрх",
+    "parent": "60f1b9e1b3e3f3f8b4f1b1b1",
+    "level": 2
+  },
+  {
+    "name": "Налайх",
+    "parent": "60f1b9e1b3e3f3f8b4f1b1b1",
+    "level": 2
+  },
+  {
+    "name": "Сонгинохайрхан",
+    "parent": "60f1b9e1b3e3f3f8b4f1b1b1",
+    "level": 2
+  },
+  {
+    "name": "Сүхбаатар",
+    "parent": "60f1b9e1b3e3f3f8b4f1b1b1",
+    "level": 2
+  },
+  {
+    "name": "Хан-Уул",
+    "parent": "60f1b9e1b3e3f3f8b4f1b1b1",
+    "level": 2
+  },
+  {
+    "name": "Чингэлтэй",
+    "parent": "60f1b9e1b3e3f3f8b4f1b1b1",
+    "level": 2
+  },
+  {
+    "name":"(Цэцэрлэг)",
+    "parent":"40f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Батцэнгэл",
+    "parent":"40f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Булган",
+    "parent":"40f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Жаргалант",
+    "parent":"40f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Ихтамир",
+    "parent":"40f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Өгийнуур",
+    "parent":"40f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Өлзийт",
+    "parent":"40f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Өндөр-Улаан",
+    "parent":"40f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Тариат",
+    "parent":"40f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Төвшрүүлэх",
+    "parent":"40f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Хайрхан",
+    "parent":"40f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Хангай",
+    "parent":"40f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Хашаат",
+    "parent":"40f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Хотонт",
+    "parent":"40f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Цахир",
+    "parent":"40f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Цэнхэр",
+    "parent":"40f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Цэцэрлэг",
+    "parent":"40f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Чулуут",
+    "parent":"40f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Эрдэнэбулган",
+    "parent":"40f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Эрдэнэмандал",
+    "parent":"40f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"(Өлгий)",
+    "parent":"50f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Алтай",
+    "parent":"50f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Алтанцөгц",
+    "parent":"50f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Баяннуур",
+    "parent":"50f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Бугат",
+    "parent":"50f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Булган",
+    "parent":"50f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Буянт",
+    "parent":"50f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Дэлүүн",
+    "parent":"50f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Ногооннуур",
+    "parent":"50f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Сагсай",
+    "parent":"50f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Толбо",
+    "parent":"50f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Улаанхус",
+    "parent":"50f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Цагааннуур",
+    "parent":"50f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Цэнгэл",
+    "parent":"50f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"(Баянхонгор)",
+    "parent":"10f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Баацагаан",
+    "parent":"10f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Баянбулаг",
+    "parent":"10f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Баянговь",
+    "parent":"10f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Баянлиг",
+    "parent":"10f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Баян-Овоо",
+    "parent":"10f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Баян-Өндөр",
+    "parent":"10f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Баянхонгор",
+    "parent":"10f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Баянцагаан",
+    "parent":"10f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Богд",
+    "parent":"10f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Бөмбөгөр",
+    "parent":"10f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Бууцагаан",
+    "parent":"10f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Галуут",
+    "parent":"10f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Гурванбулаг",
+    "parent":"10f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Жаргалант",
+    "parent":"10f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Жинст",
+    "parent":"10f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Заг",
+    "parent":"10f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Өлзийт",
+    "parent":"10f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Хүрээмарал",
+    "parent":"10f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Шинэжинст",
+    "parent":"10f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name":"Эрдэнэцогт",
+    "parent":"10f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "(Булган)",
+    "parent": "20f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Баян-Агт",
+    "parent": "20f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Баяннуур",
+    "parent": "20f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Бугат",
+    "parent": "20f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Бүрэгхангай",
+    "parent": "20f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Гурванбулаг",
+    "parent": "20f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Дашинчилэн",
+    "parent": "20f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Могод",
+    "parent": "20f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Орхон",
+    "parent": "20f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Рашаант",
+    "parent": "20f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Сайхан",
+    "parent": "20f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Сэлэнгэ",
+    "parent": "20f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Тэшиг",
+    "parent": "20f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Хангал",
+    "parent": "20f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Хишиг-Өндөр",
+    "parent": "20f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Хутаг-Өндөр",
+    "parent": "20f1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "(Алтай)",
+    "parent": "11d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Алтай",
+    "parent": "11d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Баян-Уул",
+    "parent": "11d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Бигэр",
+    "parent": "11d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Бугат",
+    "parent": "11d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Дарви",
+    "parent": "11d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Дэлгэр",
+    "parent": "11d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Жаргалан",
+    "parent": "11d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Есөнбулаг",
+    "parent": "11d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Тайшир",
+    "parent": "11d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Тонхил",
+    "parent": "11d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Төгрөг",
+    "parent": "11d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Халиун",
+    "parent": "11d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Хөхморьт",
+    "parent": "11d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Цогт",
+    "parent": "11d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Цээл",
+    "parent": "11d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Чандмань",
+    "parent": "11d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Шарга",
+    "parent": "11d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Эрдэнэ",
+    "parent": "11d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "(Чойр)",
+    "parent": "12d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Сүмбэр",
+    "parent": "12d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Баянтал",
+    "parent": "12d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Шивээговь",
+    "parent": "12d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Дархан",
+    "parent": "13d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Орхон",
+    "parent": "13d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Хонгор",
+    "parent": "13d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Шарын гол",
+    "parent": "13d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "(Сайншанд)",
+    "parent": "14d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Айраг",
+    "parent": "14d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Алтанширээ",
+    "parent": "14d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Даланжаргалан",
+    "parent": "14d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Дэлгэрэх",
+    "parent": "14d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Замын-Үүд",
+    "parent": "14d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Иххэт",
+    "parent": "14d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Мандах",
+    "parent": "14d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Өргөн",
+    "parent": "14d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Сайхандулаан",
+    "parent": "14d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Улаанбадрах",
+    "parent": "14d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Хатанбулаг",
+    "parent": "14d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Хөвсгөл",
+    "parent": "14d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Эрдэнэ",
+    "parent": "14d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "(Чойбалсан)",
+    "parent": "15d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Баяндун",
+    "parent": "15d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Баянтүмэн",
+    "parent": "15d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Баян-Уул",
+    "parent": "15d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Булган",
+    "parent": "15d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Гурванзагал",
+    "parent": "15d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Дашбалбар",
+    "parent": "15d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Матад",
+    "parent": "15d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Сэргэлэн",
+    "parent": "15d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Халхгол",
+    "parent": "15d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Хөлөнбуйр",
+    "parent": "15d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Хэрлэн",
+    "parent": "15d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Цагаан-Овоо",
+    "parent": "15d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Чойбалсан",
+    "parent": "15d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Чулуунхороот",
+    "parent": "15d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "(Мандалговь)",
+    "parent": "16d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Адаацаг",
+    "parent": "16d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Баянжаргалан",
+    "parent": "16d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Говь-Угтаал",
+    "parent": "16d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Гурвансайхан",
+    "parent": "16d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Дэлгэрхангай",
+    "parent": "16d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Дэлгэрцогт",
+    "parent": "16d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Дэрэн",
+    "parent": "16d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Луус",
+    "parent": "16d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Өлзийт",
+    "parent": "16d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Өндөршил",
+    "parent": "16d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Сайнцагаан",
+    "parent": "16d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Сайхан-Овоо",
+    "parent": "16d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Хулд",
+    "parent": "16d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Цагаандэлгэр",
+    "parent": "16d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Эрдэнэдалай",
+    "parent": "16d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "(Улиастай)",
+    "parent": "17d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Алдархаан",
+    "parent": "17d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Асгат",
+    "parent": "17d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Баянтэс",
+    "parent": "17d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Баянхайрхан",
+    "parent": "17d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Дөрвөлжин",
+    "parent": "17d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Завханмандал",
+    "parent": "17d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Идэр",
+    "parent": "17d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Их-Уул",
+    "parent": "17d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Нөмрөг",
+    "parent": "17d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Отгон",
+    "parent": "17d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Сантмаргаз",
+    "parent": "17d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Сонгино",
+    "parent": "17d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Тосонцэнгэл",
+    "parent": "17d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Түдэвтэй",
+    "parent": "17d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Тэлмэн",
+    "parent": "17d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Тэс",
+    "parent": "17d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Ургамал",
+    "parent": "17d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Цагаанхайрхан",
+    "parent": "17d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Цагаанчулуут",
+    "parent": "17d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Цэцэн-Уул",
+    "parent": "17d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Шилүүстэй",
+    "parent": "17d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Эрдэнэхайрхан",
+    "parent": "17d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Яруу",
+    "parent": "17d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "(Эрдэнэт)",
+    "parent": "18d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Баян-Өндөр",
+    "parent": "18d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Жаргалант",
+    "parent": "18d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "(Арвайхээр)",
+    "parent": "19d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Баруунбаян-Улаан",
+    "parent": "19d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Бат-Өлзий",
+    "parent": "19d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Баянгол",
+    "parent": "19d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Баян-Өндөр",
+    "parent": "19d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Богд",
+    "parent": "19d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Бүрд",
+    "parent": "19d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Гучин-Ус",
+    "parent": "19d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Есөнзүйл",
+    "parent": "19d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Зүүнбаян-Улаан",
+    "parent": "19d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Нарийнтээл",
+    "parent": "19d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Өлзийт",
+    "parent": "19d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Сант",
+    "parent": "19d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Тарагт",
+    "parent": "19d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Төгрөг",
+    "parent": "19d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Уянга",
+    "parent": "19d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Хужирт",
+    "parent": "19d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Хайрхандулаан",
+    "parent": "19d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Хархорин",
+    "parent": "19d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "(Даланзадгад)",
+    "parent": "20d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Баяндалай",
+    "parent": "20d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Баян-Овоо",
+    "parent": "20d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Булган",
+    "parent": "20d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Гурвантэс",
+    "parent": "20d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Мандал-Овоо",
+    "parent": "20d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Манлай",
+    "parent": "20d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Ноён",
+    "parent": "20d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Номгон",
+    "parent": "20d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Сэврэй",
+    "parent": "20d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Ханбогд",
+    "parent": "20d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Ханхонгор",
+    "parent": "20d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Хүрмэн",
+    "parent": "20d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Цогт-Овоо",
+    "parent": "20d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Цогтцэций",
+    "parent": "20d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "(Баруун-Урт)",
+    "parent": "21d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Асгат",
+    "parent": "21d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Баяндэлгэр",
+    "parent": "21d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Дарьганга",
+    "parent": "21d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Мөнххаан",
+    "parent": "21d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Наран",
+    "parent": "21d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Онгон",
+    "parent": "21d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Сүхбаатар",
+    "parent": "21d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Түвшинширээ",
+    "parent": "21d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Түмэнцогт",
+    "parent": "21d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Уулбаян",
+    "parent": "21d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Халзан",
+    "parent": "21d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Эрдэнэцагаан",
+    "parent": "21d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "(Сүхбаатар)",
+    "parent": "22d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Алтанбулаг",
+    "parent": "22d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Баруунбүрэн",
+    "parent": "22d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Баянгол",
+    "parent": "22d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Ерөө",
+    "parent": "22d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Жавхлант",
+    "parent": "22d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Зүүнбүрэн",
+    "parent": "22d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Мандал",
+    "parent": "22d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Орхон",
+    "parent": "22d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Орхонтуул",
+    "parent": "22d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Сайхан",
+    "parent": "22d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Сант",
+    "parent": "22d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Түшиг",
+    "parent": "22d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Хушаат",
+    "parent": "22d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Хүдэр",
+    "parent": "22d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Цагааннуур",
+    "parent": "22d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Шаамар",
+    "parent": "22d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  
+  {
+    "name": "(Зуунмод)",
+    "parent": "23d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Алтанбулаг",
+    "parent": "23d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Аргалант",
+    "parent": "23d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Архуст",
+    "parent": "23d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Батсүмбэр",
+    "parent": "23d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Баян",
+    "parent": "23d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Баяндэлгэр",
+    "parent": "23d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Баянжаргалан",
+    "parent": "23d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Баян-Өнжүүл",
+    "parent": "23d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Баянхангай",
+    "parent": "23d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Баянцагаан",
+    "parent": "23d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Баянцогт",
+    "parent": "23d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Баянчандмань",
+    "parent": "23d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Борнуур",
+    "parent": "23d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Бүрэн",
+    "parent": "23d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Дэлгэрхаан",
+    "parent": "23d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Жаргалант",
+    "parent": "23d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Заамар",
+    "parent": "23d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Лүн",
+    "parent": "23d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Мөнгөнморьт",
+    "parent": "23d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Өндөрширээт",
+    "parent": "23d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Сүмбэр",
+    "parent": "23d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Сэргэлэн",
+    "parent": "23d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Угтаалцайдам",
+    "parent": "23d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Цээл",
+    "parent": "23d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Эрдэнэ",
+    "parent": "23d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Эрдэнэсант",
+    "parent": "23d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "(Улаангом)",
+    "parent": "24d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Баруунтуруун",
+    "parent": "24d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Бөхмөрөн",
+    "parent": "24d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Давст",
+    "parent": "24d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Завхан",
+    "parent": "24d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Зүүнговь",
+    "parent": "24d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Зүүнхангай",
+    "parent": "24d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Малчин",
+    "parent": "24d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Наранбулаг",
+    "parent": "24d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Өлгий",
+    "parent": "24d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Өмнөговь",
+    "parent": "24d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Өндөрхангай",
+    "parent": "24d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Сагил",
+    "parent": "24d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Тариалан",
+    "parent": "24d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Түргэн",
+    "parent": "24d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Тэс",
+    "parent": "24d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Ховд",
+    "parent": "24d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Хяргас",
+    "parent": "24d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Цагаанхайрхан",
+    "parent": "24d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "(Ховд)",
+    "parent": "25d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Алтай",
+    "parent": "25d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Булган",
+    "parent": "25d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Буянт",
+    "parent": "25d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Дарви",
+    "parent": "25d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Дөргөн",
+    "parent": "25d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Дуут",
+    "parent": "25d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Жаргалант",
+    "parent": "25d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Зэрэг",
+    "parent": "25d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Манхан",
+    "parent": "25d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Мөнххайрхан",
+    "parent": "25d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Мөст",
+    "parent": "25d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Мянгад",
+    "parent": "25d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Үенч",
+    "parent": "25d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Ховд",
+    "parent": "25d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Цэцэг",
+    "parent": "25d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Чандмань",
+    "parent": "25d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Эрдэнэбүрэн",
+    "parent": "25d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "(Мөрөн)",
+    "parent": "26d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Алаг-Эрдэнэ",
+    "parent": "26d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Арбулаг",
+    "parent": "26d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Баянзүрх",
+    "parent": "26d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Бүрэнтогтох",
+    "parent": "26d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Галт",
+    "parent": "26d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Жаргалант",
+    "parent": "26d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Их-Уул",
+    "parent": "26d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Мөрөн",
+    "parent": "26d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Рашаант",
+    "parent": "26d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Рэнчинлхүмбэ",
+    "parent": "26d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Тариалан",
+    "parent": "26d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Тосонцэнгэл",
+    "parent": "26d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Төмөрбулаг",
+    "parent": "26d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Түнэл",
+    "parent": "26d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Улаан-Уул",
+    "parent": "26d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Ханх",
+    "parent": "26d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Хатгал",
+    "parent": "26d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Цагааннуур",
+    "parent": "26d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Цагаан-Уул",
+    "parent": "26d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Цагаан-Үүр",
+    "parent": "26d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Цэцэрлэг",
+    "parent": "26d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Чандмань-Өндөр",
+    "parent": "26d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Шинэ-Идэр",
+    "parent": "26d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Эрдэнэбулган",
+    "parent": "26d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "(Чингис)",
+    "parent": "27d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Батноров",
+    "parent": "27d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Батширээт",
+    "parent": "27d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Баян-Адарга",
+    "parent": "27d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Баянмөнх",
+    "parent": "27d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Баян-Овоо",
+    "parent": "27d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Баянхутаг",
+    "parent": "27d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Биндэр",
+    "parent": "27d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Бор-Өндөр",
+    "parent": "27d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Галшар",
+    "parent": "27d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Дадал",
+    "parent": "27d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Дархан",
+    "parent": "27d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Дэлгэрхаан",
+    "parent": "27d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Жаргалтхаан",
+    "parent": "27d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Мөрөн",
+    "parent": "27d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Норовлин",
+    "parent": "27d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Өмнөдэлгэр",
+    "parent": "27d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Хэрлэн",
+    "parent": "27d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  },
+  {
+    "name": "Цэнхэрмандал",
+    "parent": "27d1b9e1b3e3f3f8b4f1b1b1",
+    "level":2
+  }
+
+]

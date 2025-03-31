@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HACK</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background: black;
+            height: 100vh;
+            overflow: hidden;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .matrix {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            color: #0f0;
+            font-family: monospace;
+            font-size: 20px;
+            columns: 10px;
+            white-space: nowrap;
+            overflow: hidden;
+        }
+
+        .drop {
+            position: absolute;
+            animation: fall linear infinite;
+        }
+
+        @keyframes fall {
+            0% {
+                transform: translateY(-100vh);
+                opacity: 1;
+            }
+            100% {
+                transform: translateY(100vh);
+                opacity: 0.2;
+            }
+        }
+
+        .text {
+            position: relative;
+            z-index: 1;
+            color: #0f0;
+            font-family: monospace;
+            font-size: 48px;
+            text-shadow: 0 0 10px #0f0;
+            animation: glow 1.5s ease-in-out infinite alternate;
+        }
+
+        @keyframes glow {
+            from {
+                text-shadow: 0 0 10px #0f0, 0 0 20px #0f0;
+            }
+            to {
+                text-shadow: 0 0 20px #0f0, 0 0 30px #00ff00;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="text">HACK ON YOU BITCH</div>
+    <div class="matrix"></div>
+
+    <script>
+        const matrix = document.querySelector('.matrix');
+        const width = window.innerWidth;
+        const columns = Math.floor(width / 20);
+
+        function createDrop() {
+            const drop = document.createElement('div');
+            drop.className = 'drop';
+            drop.style.left = Math.random() * width + 'px';
+            drop.style.animationDuration = (Math.random() * 5 + 5) + 's';
+            
+            let text = '';
+            const length = Math.floor(Math.random() * 20) + 10;
+            for (let i = 0; i < length; i++) {
+                text += String.fromCharCode(Math.random() < 0.5 ? 
+                    48 + Math.floor(Math.random() * 10) : // numbers
+                    65382 + Math.floor(Math.random() * 94)); // katakana
+            }
+            drop.textContent = text;
+            
+            matrix.appendChild(drop);
+            
+            setTimeout(() => drop.remove(), 10000);
+        }
+
+        // Initial drops
+        for (let i = 0; i < columns; i++) {
+            setTimeout(createDrop, Math.random() * 2000);
+        }
+
+        // Continuous drops
+        setInterval(createDrop, 100);
+    </script>
+</body>
+</html>
